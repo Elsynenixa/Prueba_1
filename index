@@ -6,4 +6,16 @@
   < cuerpo >
     < p > Este es un párrafo de ejemplo. Todo lo que se encuentre en la etiqueta < strong > body </ strong > aparecerá en la página, al igual que esta etiqueta < strong > p </ strong > y su contenido. </ p >
   </ cuerpo >
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFQSPN8WHG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RFQSPN8WHG');
+</script>
+
+
 </html>
