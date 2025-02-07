@@ -1,0 +1,9 @@
+<!doctypehtml >
+<html>​​
+  < cabeza >
+    < title > ¡Éste es el título de la página web! </ title >
+  </cabeza>​​
+  < cuerpo >
+    < p > Este es un párrafo de ejemplo. Todo lo que se encuentre en la etiqueta < strong > body </ strong > aparecerá en la página, al igual que esta etiqueta < strong > p </ strong > y su contenido. </ p >
+  </ cuerpo >
+</html>
