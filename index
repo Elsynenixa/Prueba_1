@@ -2,10 +2,6 @@
 <html>​​
   < cabeza >
     < title > ¡Éste es el título de la página web! </ title >
-  </cabeza>​​
-  < cuerpo >
-    < p > Este es un párrafo de ejemplo. Todo lo que se encuentre en la etiqueta < strong > body </ strong > aparecerá en la página, al igual que esta etiqueta < strong > p </ strong > y su contenido. </ p >
-  </ cuerpo >
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RFQSPN8WHG"></script>
@@ -16,6 +12,10 @@
 
   gtag('config', 'G-RFQSPN8WHG');
 </script>
+  </cabeza>​​
+  < cuerpo >
+    < p > Este es un párrafo de ejemplo. Todo lo que se encuentre en la etiqueta < strong > body </ strong > aparecerá en la página, al igual que esta etiqueta < strong > p </ strong > y su contenido. </ p >
+  </ cuerpo >
 
 
 </html>
